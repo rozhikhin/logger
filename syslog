@@ -1,0 +1,9 @@
+
+Dec 30 19:16:06 mint-work php: Debug message
+Dec 30 19:16:06 mint-work php: Debug message
+Dec 30 19:16:35 mint-work ntpd[280778]: receive: Unexpected origin timestamp 0xe57859e3.33b89318 does not match aorg 0000000000.00000000 from server@185.150.155.166 xmt 0xe57859e3.3ae49369
+Dec 30 19:16:35 mint-work ntpd[280778]: receive: Unexpected origin timestamp 0xe57859e3.33b89318 does not match aorg 0000000000.00000000 from server@185.150.155.166 xmt 0xe57859e3.3ae42c2b
+Dec 30 19:16:35 mint-work ntpd[280778]: receive: Unexpected origin timestamp 0xe57859e3.33b89318 does not match aorg 0000000000.00000000 from server@185.150.155.166 xmt 0xe57859e3.3ae49369
+Dec 30 19:16:36 mint-work ntpd[280778]: receive: Unexpected origin timestamp 0xe57859e4.33e46f97 does not match aorg 0000000000.00000000 from server@85.21.78.91 xmt 0xe57859e4.3fd6cd07
+Dec 30 19:16:36 mint-work ntpd[280778]: receive: Unexpected origin timestamp 0xe57859e4.33e46f97 does not match aorg 0000000000.00000000 from server@85.21.78.91 xmt 0xe57859e4.3fd60c95
+Dec 30 19:16:36 mint-work ntpd[280778]: receive: Unexpected origin timestamp 0xe57859e4.33e46f97 does not match aorg 0000000000.00000000 from server@85.21.78.91 xmt 0xe57859e4.3fd6cd07
