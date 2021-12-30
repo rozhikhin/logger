@@ -10,11 +10,11 @@ class LineFormatter
     /**
      * @var string
      */
-    private mixed $dateFormat;
+    private string $dateFormat;
     /**
      * @var string
      */
-    private mixed $formatter;
+    private string $formatter;
 
     public function __construct(
         $formatter = '%date%  %level_code%  %level%  %message%',
