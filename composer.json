@@ -1,0 +1,16 @@
+{
+    "name": "rozhikhin/logger",
+    "description": "Logging component",
+    "authors": [
+        {
+            "name": "Rozhikhin Alexander",
+            "email": "rozhihin@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Logger\\": "Logger"
+        }
+    }
+}
